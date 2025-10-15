@@ -1985,8 +1985,8 @@ SphereCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Radius: 1.9648061
-  m_Center: {x: -0.41898778, y: 0.24447934, z: -0.15442576}
+  m_Radius: 1.4119432
+  m_Center: {x: 0.11845094, y: 0.2049874, z: -0.099160366}
 --- !u!23 &1145617387
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -2052,8 +2052,7 @@ Transform:
   m_LocalPosition: {x: 0, y: 0.883, z: 0}
   m_LocalScale: {x: 0.49619, y: 0.49619, z: 0.49619}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1747000631}
+  m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1161290557
@@ -2805,27 +2804,27 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 1145617389}
+    m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 176cbc68d5b69574ab854e9f862026ad, type: 3}
       propertyPath: m_LocalScale.x
-      value: 36.93972
+      value: 18.32912
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 176cbc68d5b69574ab854e9f862026ad, type: 3}
       propertyPath: m_LocalScale.y
-      value: 36.93972
+      value: 18.32912
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 176cbc68d5b69574ab854e9f862026ad, type: 3}
       propertyPath: m_LocalScale.z
-      value: 36.93972
+      value: 18.32912
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 176cbc68d5b69574ab854e9f862026ad, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.3599
+      value: -0.6747688
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 176cbc68d5b69574ab854e9f862026ad, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.9819577
+      value: 1.3702376
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 176cbc68d5b69574ab854e9f862026ad, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2868,11 +2867,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 176cbc68d5b69574ab854e9f862026ad, type: 3}
---- !u!4 &1747000631 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 176cbc68d5b69574ab854e9f862026ad, type: 3}
-  m_PrefabInstance: {fileID: 1747000630}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1780425400
 GameObject:
   m_ObjectHideFlags: 0
@@ -3594,6 +3588,7 @@ SceneRoots:
   - {fileID: 961739753}
   - {fileID: 203844589}
   - {fileID: 1211869380}
+  - {fileID: 1747000630}
   - {fileID: 1145617389}
   - {fileID: 883290544}
   - {fileID: 1954559991}

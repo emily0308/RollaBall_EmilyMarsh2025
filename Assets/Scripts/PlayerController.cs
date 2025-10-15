@@ -1,17 +1,19 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 using TMPro;
+using System;
 
 public class PlayerController : MonoBehaviour
 {
     public float speed = 0;
+    public float jumpforce = 10;
     public TextMeshProUGUI countText;
     private Rigidbody rb;
     private int count;
     private float movementX;
     private float movementY;
     public GameObject winTextObject;
-    
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -24,7 +26,7 @@ public class PlayerController : MonoBehaviour
     void OnMove(InputValue movementValue)
     {
         Vector2 movementVector = movementValue.Get<Vector2>();
-            
+
         movementX = movementVector.x;
         movementY = movementVector.y;
     }
@@ -44,6 +46,11 @@ public class PlayerController : MonoBehaviour
         Vector3 movement = new Vector3(movementX, 0.0f, movementY);
 
         rb.AddForce(movement * speed);
+
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            rb.AddForce(Vector3.up * jumpforce, ForceMode.Impulse);
+        }
     }
     private void OnTriggerEnter(Collider other)
     {

@@ -132,7 +132,7 @@ GameObject:
   - component: {fileID: 6198746}
   - component: {fileID: 6198745}
   m_Layer: 0
-  m_Name: Cube (56)
+  m_Name: Bedroom Door Frames
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -220,12 +220,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6198744}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.24999988, y: 2, z: 0.50000036}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.8749999, y: 1.625, z: 0.12500012}
   m_LocalScale: {x: 0.24997535, y: 0.5000187, z: 2.250068}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 246788478}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &23058439
 GameObject:
@@ -240,7 +240,7 @@ GameObject:
   - component: {fileID: 23058441}
   - component: {fileID: 23058440}
   m_Layer: 0
-  m_Name: Cube (55)
+  m_Name: Closet and Shower Frame
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -328,12 +328,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 23058439}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.25000024, y: 2, z: 2.25}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.37499976, y: 1.625, z: 1.8749998}
   m_LocalScale: {x: 0.25000036, y: 0.5000187, z: 1.7500381}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1447531243}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &75071738
 GameObject:
@@ -348,7 +348,7 @@ GameObject:
   - component: {fileID: 75071740}
   - component: {fileID: 75071739}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Hallway Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -436,12 +436,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 75071738}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.625, y: 0.375, z: 0.37500024}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1.4999812, y: 0.25, z: 2.0000694}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1555514676}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &76960574
 GameObject:
@@ -456,7 +456,7 @@ GameObject:
   - component: {fileID: 76960576}
   - component: {fileID: 76960575}
   m_Layer: 0
-  m_Name: Cube (7)
+  m_Name: Bedroom 1 Front Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -545,11 +545,11 @@ Transform:
   m_GameObject: {fileID: 76960574}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0.24899995, y: 1.25, z: 2.25}
+  m_LocalPosition: {x: 0.87399995, y: 0.875, z: 1.8749998}
   m_LocalScale: {x: 2.250043, y: 2.0000749, z: 0.24998999}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 246788478}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &132728893
 GameObject:
@@ -564,7 +564,7 @@ GameObject:
   - component: {fileID: 132728895}
   - component: {fileID: 132728894}
   m_Layer: 0
-  m_Name: Cube (11)
+  m_Name: Nook Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -653,11 +653,11 @@ Transform:
   m_GameObject: {fileID: 132728893}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 1, z: -0, w: -0.00000037252897}
-  m_LocalPosition: {x: -1.626, y: 1.25, z: -0.7499989}
+  m_LocalPosition: {x: -1.001, y: 0.875, z: -1.1249992}
   m_LocalScale: {x: 2.0000327, y: 2.0000749, z: 0.24998999}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1555514676}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
 --- !u!1 &177763070
 GameObject:
@@ -672,7 +672,7 @@ GameObject:
   - component: {fileID: 177763072}
   - component: {fileID: 177763071}
   m_Layer: 0
-  m_Name: Cube (46)
+  m_Name: Bathroom Window Bottom Frame
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -760,12 +760,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 177763070}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.87500024, y: 0.6144, z: 3.2500002}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.25000024, y: 0.23940003, z: 2.875}
   m_LocalScale: {x: 1.0000429, y: 0.72882056, z: 0.24998999}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1447531243}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &187959463
 GameObject:
@@ -780,7 +780,7 @@ GameObject:
   - component: {fileID: 187959465}
   - component: {fileID: 187959464}
   m_Layer: 0
-  m_Name: Cube (26)
+  m_Name: Spare Bed Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -868,12 +868,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 187959463}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.1249998, y: 0.375, z: -1.7499993}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.49999976, y: 0, z: -2.1249995}
   m_LocalScale: {x: 2.4999695, y: 0.25, z: 2.250078}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 406408510}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &203844586
 GameObject:
@@ -1009,7 +1009,7 @@ GameObject:
   - component: {fileID: 230561328}
   - component: {fileID: 230561327}
   m_Layer: 0
-  m_Name: Cube (35)
+  m_Name: Bedroom 2 Back Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1098,12 +1098,51 @@ Transform:
   m_GameObject: {fileID: 230561326}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 2.749, y: 1.25, z: -1.3749998}
+  m_LocalPosition: {x: 3.374, y: 0.875, z: -1.75}
   m_LocalScale: {x: 3.5000443, y: 2.0000749, z: 0.24999999}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 559333215}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+--- !u!1 &246788477
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 246788478}
+  m_Layer: 0
+  m_Name: Bedrooms
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &246788478
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 246788477}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1169488448}
+  - {fileID: 6198748}
+  - {fileID: 671255836}
+  - {fileID: 76960578}
+  - {fileID: 772257124}
+  - {fileID: 977381356}
+  - {fileID: 1687142341}
+  - {fileID: 559333215}
+  m_Father: {fileID: 265902249}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &259818614
 GameObject:
   m_ObjectHideFlags: 0
@@ -1117,7 +1156,7 @@ GameObject:
   - component: {fileID: 259818616}
   - component: {fileID: 259818615}
   m_Layer: 0
-  m_Name: Cube (50)
+  m_Name: Bedroom 1 Top Window Frame
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1206,12 +1245,47 @@ Transform:
   m_GameObject: {fileID: 259818614}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 1.3047, y: 2.0184, z: 3.25}
+  m_LocalPosition: {x: 1.9297, y: 1.6434, z: 2.8749998}
   m_LocalScale: {x: 0.25002283, y: 0.3928687, z: 0.86142945}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1687142341}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+--- !u!1 &265902248
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 265902249}
+  m_Layer: 0
+  m_Name: Upstairs
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &265902249
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 265902248}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.625, y: 0.375, z: 0.37500024}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1555514676}
+  - {fileID: 246788478}
+  - {fileID: 406408510}
+  - {fileID: 1447531243}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &317559570
 GameObject:
   m_ObjectHideFlags: 0
@@ -1225,7 +1299,7 @@ GameObject:
   - component: {fileID: 317559572}
   - component: {fileID: 317559571}
   m_Layer: 0
-  m_Name: Cube (4)
+  m_Name: Nook Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1313,12 +1387,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 317559570}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.875, y: 0.25, z: 0.00000029802322}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.25, y: -0.125, z: -0.37499994}
   m_LocalScale: {x: 1.00002, y: 0.5, z: 1.2499499}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1555514676}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &336425994
 GameObject:
@@ -1333,7 +1407,7 @@ GameObject:
   - component: {fileID: 336425996}
   - component: {fileID: 336425995}
   m_Layer: 0
-  m_Name: Cube (16)
+  m_Name: Toilet Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1421,12 +1495,52 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 336425994}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.25, y: 0.37499994, z: 3.0000005}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.625, y: 0, z: 2.6250002}
   m_LocalScale: {x: 1.7499343, y: 0.25, z: 0.750026}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1447531243}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &406408509
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 406408510}
+  m_Layer: 0
+  m_Name: Spare Bedroom
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &406408510
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 406408509}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 766876019}
+  - {fileID: 1349635762}
+  - {fileID: 1126930575}
+  - {fileID: 479526304}
+  - {fileID: 1608825134}
+  - {fileID: 576746970}
+  - {fileID: 1898805521}
+  - {fileID: 1242973329}
+  - {fileID: 187959467}
+  m_Father: {fileID: 265902249}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &416696350
 GameObject:
@@ -1441,7 +1555,7 @@ GameObject:
   - component: {fileID: 416696352}
   - component: {fileID: 416696351}
   m_Layer: 0
-  m_Name: Cube (44)
+  m_Name: Bedroom 2 Closet Door Frame
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1530,11 +1644,11 @@ Transform:
   m_GameObject: {fileID: 416696350}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 1.4990001, y: 1.875, z: 0.12500015}
+  m_LocalPosition: {x: 2.124, y: 1.5, z: -0.2500001}
   m_LocalScale: {x: 0.5000206, y: 0.25008437, z: 1.2499999}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 559333215}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &479526300
 GameObject:
@@ -1549,7 +1663,7 @@ GameObject:
   - component: {fileID: 479526302}
   - component: {fileID: 479526301}
   m_Layer: 0
-  m_Name: Cube (51)
+  m_Name: Spare Bed Left Window Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1638,12 +1752,53 @@ Transform:
   m_GameObject: {fileID: 479526300}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 1, z: -0, w: -0.00000037252897}
-  m_LocalPosition: {x: -0.09, y: 1.25, z: -3}
+  m_LocalPosition: {x: 0.53499997, y: 0.875, z: -3.3750002}
   m_LocalScale: {x: 0.9279162, y: 2.0000749, z: 0.24998999}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 406408510}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!1 &559333214
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 559333215}
+  m_Layer: 0
+  m_Name: Bedroom 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &559333215
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 559333214}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 416696354}
+  - {fileID: 596982257}
+  - {fileID: 230561330}
+  - {fileID: 1476033438}
+  - {fileID: 1505945114}
+  - {fileID: 2024661524}
+  - {fileID: 1432819012}
+  - {fileID: 1511531221}
+  - {fileID: 1131855682}
+  - {fileID: 989306522}
+  m_Father: {fileID: 246788478}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &567437162
 GameObject:
   m_ObjectHideFlags: 0
@@ -1657,7 +1812,7 @@ GameObject:
   - component: {fileID: 567437164}
   - component: {fileID: 567437163}
   m_Layer: 0
-  m_Name: Cube (24)
+  m_Name: Spare Bed and Hallway Gable
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1746,11 +1901,11 @@ Transform:
   m_GameObject: {fileID: 567437162}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: 0.25881952, w: 0.96592575}
-  m_LocalPosition: {x: -1.6444, y: 1.7723, z: -0.75}
+  m_LocalPosition: {x: -1.0194, y: 1.3973, z: -1.1250002}
   m_LocalScale: {x: 2.2862844, y: 0.25, z: 4.499892}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1555514676}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 30}
 --- !u!1 &576746966
 GameObject:
@@ -1765,7 +1920,7 @@ GameObject:
   - component: {fileID: 576746968}
   - component: {fileID: 576746967}
   m_Layer: 0
-  m_Name: Cube (53)
+  m_Name: Spare Bed Top Window Frame
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1854,11 +2009,11 @@ Transform:
   m_GameObject: {fileID: 576746966}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 1, z: -0, w: -0.00000037252897}
-  m_LocalPosition: {x: -0.8760017, y: 2.0473, z: -2.9999995}
+  m_LocalPosition: {x: -0.25100172, y: 1.6723001, z: -3.3749998}
   m_LocalScale: {x: 0.9999264, y: 0.40540504, z: 0.24998999}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 406408510}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
 --- !u!1 &596982253
 GameObject:
@@ -1873,7 +2028,7 @@ GameObject:
   - component: {fileID: 596982255}
   - component: {fileID: 596982254}
   m_Layer: 0
-  m_Name: Cube (45)
+  m_Name: Bedroom 2 Top Window Frame
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1962,11 +2117,11 @@ Transform:
   m_GameObject: {fileID: 596982253}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 1.4990002, y: 2.0532, z: -2.9999998}
+  m_LocalPosition: {x: 2.124, y: 1.6782, z: -3.375}
   m_LocalScale: {x: 0.2500103, y: 0.39353114, z: 1.2499999}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 559333215}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &609496530
 GameObject:
@@ -1981,7 +2136,7 @@ GameObject:
   - component: {fileID: 609496532}
   - component: {fileID: 609496531}
   m_Layer: 0
-  m_Name: Cube (3)
+  m_Name: Landing
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2069,12 +2224,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 609496530}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.25, y: 0.125, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.625, y: -0.25, z: 0.62499976}
   m_LocalScale: {x: 0.75, y: 0, z: 0.75}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1555514676}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &625601259
 GameObject:
@@ -2089,7 +2244,7 @@ GameObject:
   - component: {fileID: 625601261}
   - component: {fileID: 625601260}
   m_Layer: 0
-  m_Name: Cube (13)
+  m_Name: Bathroom Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2177,12 +2332,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 625601259}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.5, y: 0.375, z: 2.3750005}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.125, y: 0, z: 2}
   m_LocalScale: {x: 1.7499343, y: 0.25, z: 2.0000694}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1447531243}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &671255832
 GameObject:
@@ -2197,7 +2352,7 @@ GameObject:
   - component: {fileID: 671255834}
   - component: {fileID: 671255833}
   m_Layer: 0
-  m_Name: Cube (41)
+  m_Name: Bedroom Roofs
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2286,11 +2441,11 @@ Transform:
   m_GameObject: {fileID: 671255832}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 1.4989995, y: 2.1249998, z: 0.12500036}
+  m_LocalPosition: {x: 2.1239996, y: 1.7499998, z: -0.24999988}
   m_LocalScale: {x: 6.4999394, y: 0.25000936, z: 2.7498834}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 246788478}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &703729735
 GameObject:
@@ -2531,7 +2686,7 @@ GameObject:
   - component: {fileID: 766876017}
   - component: {fileID: 766876016}
   m_Layer: 0
-  m_Name: Cube (31)
+  m_Name: Spare Bed Roof
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2620,11 +2775,11 @@ Transform:
   m_GameObject: {fileID: 766876015}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -0.8759994, y: 2.125, z: -1.9999989}
+  m_LocalPosition: {x: -0.2509994, y: 1.75, z: -2.374999}
   m_LocalScale: {x: 2.2500484, y: 0.25000936, z: 2.499894}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 406408510}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &772257120
 GameObject:
@@ -2639,7 +2794,7 @@ GameObject:
   - component: {fileID: 772257122}
   - component: {fileID: 772257121}
   m_Layer: 0
-  m_Name: Cube (33)
+  m_Name: Bedrooms' Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2728,11 +2883,11 @@ Transform:
   m_GameObject: {fileID: 772257120}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 1.6240001, y: 1.25, z: 0.5000001}
+  m_LocalPosition: {x: 2.249, y: 0.875, z: 0.12499988}
   m_LocalScale: {x: 0.25002283, y: 2.0000749, z: 2.4999998}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 246788478}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1001 &792834380
 PrefabInstance:
@@ -2808,114 +2963,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 648267211244693805, guid: 933f61d6da00d0b4494f82f197b800e9, type: 3}
   m_PrefabInstance: {fileID: 792834380}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &867936616
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 867936620}
-  - component: {fileID: 867936619}
-  - component: {fileID: 867936618}
-  - component: {fileID: 867936617}
-  m_Layer: 0
-  m_Name: Cube (30)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!65 &867936617
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 867936616}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
---- !u!23 &867936618
-MeshRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 867936616}
-  m_Enabled: 1
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 2
-  m_RayTraceProcedural: 0
-  m_RayTracingAccelStructBuildFlagsOverride: 0
-  m_RayTracingAccelStructBuildFlags: 1
-  m_SmallMeshCulling: 1
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_AdditionalVertexStreams: {fileID: 0}
---- !u!33 &867936619
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 867936616}
-  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!4 &867936620
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 867936616}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: 1, z: -0, w: -0.00000037252897}
-  m_LocalPosition: {x: 0.24899888, y: 1.25, z: -2.0000007}
-  m_LocalScale: {x: 0.2500066, y: 2.0000749, z: 2.249985}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
 --- !u!1 &879031180
 GameObject:
   m_ObjectHideFlags: 0
@@ -2929,7 +2976,7 @@ GameObject:
   - component: {fileID: 879031182}
   - component: {fileID: 879031181}
   m_Layer: 0
-  m_Name: Cube (12)
+  m_Name: Nook Back Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3018,11 +3065,11 @@ Transform:
   m_GameObject: {fileID: 879031180}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 1, z: -0, w: -0.00000037252897}
-  m_LocalPosition: {x: -2.5009995, y: 1.125, z: 0.3750013}
+  m_LocalPosition: {x: -1.8759995, y: 0.75, z: 0}
   m_LocalScale: {x: 0.25000408, y: 2.2500842, z: 2.5000331}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1555514676}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
 --- !u!1 &923257105
 GameObject:
@@ -3264,8 +3311,8 @@ Camera:
     width: 1
     height: 1
   near clip plane: 0.3
-  far clip plane: 1000
-  field of view: 60
+  far clip plane: 1000.02
+  field of view: 25
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -3292,7 +3339,7 @@ Transform:
   m_GameObject: {fileID: 961739749}
   serializedVersion: 2
   m_LocalRotation: {x: 0.06963793, y: 0.6583333, z: -0.12454653, w: 0.7390778}
-  m_LocalPosition: {x: -1.64, y: 0.939, z: 0.646}
+  m_LocalPosition: {x: -2, y: 0.939, z: 0.646}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3324,7 +3371,7 @@ GameObject:
   - component: {fileID: 977381354}
   - component: {fileID: 977381353}
   m_Layer: 0
-  m_Name: Cube (40)
+  m_Name: Bedrooms' Gable
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3413,11 +3460,11 @@ Transform:
   m_GameObject: {fileID: 977381352}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0.2588186, w: 0.965926}
-  m_LocalPosition: {x: 2.1207, y: 1.8581, z: 0.125}
+  m_LocalPosition: {x: 2.7457, y: 1.4831, z: -0.25000024}
   m_LocalScale: {x: 1.9374503, y: 0.25, z: 6.2499003}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 246788478}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -30}
 --- !u!1 &987616502
 GameObject:
@@ -3432,7 +3479,7 @@ GameObject:
   - component: {fileID: 987616504}
   - component: {fileID: 987616503}
   m_Layer: 0
-  m_Name: Cube (17)
+  m_Name: Toilet Wall West
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3520,12 +3567,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 987616502}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.7500002, y: 1.25, z: 2.5000002}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.1250002, y: 0.875, z: 2.125}
   m_LocalScale: {x: 0.7501748, y: 2.0000248, z: 0.24998999}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1447531243}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &989306518
 GameObject:
@@ -3540,7 +3587,7 @@ GameObject:
   - component: {fileID: 989306520}
   - component: {fileID: 989306519}
   m_Layer: 0
-  m_Name: Cube (34)
+  m_Name: Bedroom 2 Left Closet Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3629,11 +3676,11 @@ Transform:
   m_GameObject: {fileID: 989306518}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0.9990001, y: 1.25, z: 0.1250001}
+  m_LocalPosition: {x: 1.6240001, y: 0.875, z: -0.25000012}
   m_LocalScale: {x: 0.5000206, y: 2.0000749, z: 0.24999999}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 559333215}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &1045010903
 GameObject:
@@ -3648,7 +3695,7 @@ GameObject:
   - component: {fileID: 1045010905}
   - component: {fileID: 1045010904}
   m_Layer: 0
-  m_Name: Cube (2)
+  m_Name: Bottom Step
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3736,12 +3783,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1045010903}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.75, y: 0.125, z: 0.99999994}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.125, y: -0.25, z: 0.6249997}
   m_LocalScale: {x: 0.25, y: 0.25, z: 0.75}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1555514676}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1076064924
 GameObject:
@@ -3756,7 +3803,7 @@ GameObject:
   - component: {fileID: 1076064926}
   - component: {fileID: 1076064925}
   m_Layer: 0
-  m_Name: Cube (14)
+  m_Name: Closet Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3844,12 +3891,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1076064924}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.12500024, y: 1.25, z: 2.0000002}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.49999976, y: 0.875, z: 1.625}
   m_LocalScale: {x: 0.5000332, y: 2.0000749, z: 0.24998999}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1447531243}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1094726105
 GameObject:
@@ -3864,7 +3911,7 @@ GameObject:
   - component: {fileID: 1094726107}
   - component: {fileID: 1094726106}
   m_Layer: 0
-  m_Name: Cube (49)
+  m_Name: Bedroom 1 Bottom Window Frame
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3953,11 +4000,11 @@ Transform:
   m_GameObject: {fileID: 1094726105}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 1.3047, y: 0.6199, z: 3.25}
+  m_LocalPosition: {x: 1.9297, y: 0.24489999, z: 2.8749998}
   m_LocalScale: {x: 0.25002283, y: 0.7398654, z: 0.86142945}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1687142341}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &1102291933
 GameObject:
@@ -3972,7 +4019,7 @@ GameObject:
   - component: {fileID: 1102291935}
   - component: {fileID: 1102291934}
   m_Layer: 0
-  m_Name: Cube (25)
+  m_Name: Toilet Roof
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4061,11 +4108,11 @@ Transform:
   m_GameObject: {fileID: 1102291933}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -1.8759997, y: 2.125, z: 2.7500002}
+  m_LocalPosition: {x: -1.2509997, y: 1.75, z: 2.375}
   m_LocalScale: {x: 0.7500237, y: 0.25000936, z: 0.49999878}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1447531243}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &1104758430
 GameObject:
@@ -4080,7 +4127,7 @@ GameObject:
   - component: {fileID: 1104758432}
   - component: {fileID: 1104758431}
   m_Layer: 0
-  m_Name: Cube (5)
+  m_Name: Stair Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4168,12 +4215,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1104758430}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.753, y: 1.125, z: 1.5000002}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.128, y: 0.75, z: 1.125}
   m_LocalScale: {x: 1.7500724, y: 2.2500842, z: 0.24998999}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1555514676}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1126930571
 GameObject:
@@ -4188,7 +4235,7 @@ GameObject:
   - component: {fileID: 1126930573}
   - component: {fileID: 1126930572}
   m_Layer: 0
-  m_Name: Cube (27)
+  m_Name: Spare Bed Right Window Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4277,11 +4324,11 @@ Transform:
   m_GameObject: {fileID: 1126930571}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 1, z: -0, w: -0.00000037252897}
-  m_LocalPosition: {x: -1.7205, y: 1.25, z: -2.9999988}
+  m_LocalPosition: {x: -1.0955, y: 0.875, z: -3.374999}
   m_LocalScale: {x: 1.3110344, y: 2.0000749, z: 0.24998999}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 406408510}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
 --- !u!1 &1131855678
 GameObject:
@@ -4296,7 +4343,7 @@ GameObject:
   - component: {fileID: 1131855680}
   - component: {fileID: 1131855679}
   m_Layer: 0
-  m_Name: Cube (29)
+  m_Name: Bedroom 2 Front Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4385,11 +4432,11 @@ Transform:
   m_GameObject: {fileID: 1131855678}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 1, z: -0, w: -0.00000037252897}
-  m_LocalPosition: {x: 0.24899888, y: 1.25, z: -2.0000007}
+  m_LocalPosition: {x: 0.8739989, y: 0.875, z: -2.375001}
   m_LocalScale: {x: 0.2500066, y: 2.0000749, z: 2.249985}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 559333215}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
 --- !u!1001 &1145340936
 PrefabInstance:
@@ -4663,7 +4710,7 @@ GameObject:
   - component: {fileID: 1169488446}
   - component: {fileID: 1169488445}
   m_Layer: 0
-  m_Name: Cube (32)
+  m_Name: Bedroom Floors
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4751,12 +4798,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1169488444}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.4999999, y: 0.375, z: 0.12500024}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.125, y: 0, z: -0.25}
   m_LocalScale: {x: 2.7499154, y: 0.25, z: 6.5001755}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 246788478}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1207772608
 GameObject:
@@ -4771,7 +4818,7 @@ GameObject:
   - component: {fileID: 1207772610}
   - component: {fileID: 1207772609}
   m_Layer: 0
-  m_Name: Cube (15)
+  m_Name: Shower Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4859,12 +4906,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1207772608}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.25000027, y: 1.25, z: 3.2500002}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.37499973, y: 0.875, z: 2.875}
   m_LocalScale: {x: 0.75012475, y: 2.0000749, z: 0.24998999}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1447531243}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1218004304
 GameObject:
@@ -4879,7 +4926,7 @@ GameObject:
   - component: {fileID: 1218004306}
   - component: {fileID: 1218004305}
   m_Layer: 0
-  m_Name: Cube (54)
+  m_Name: Bathroom Door Frame
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4967,12 +5014,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1218004304}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.62500024, y: 2, z: 1.5000002}
-  m_LocalScale: {x: 1.0000014, y: 0.5000187, z: 0.24998999}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 1.625, z: 1.125}
+  m_LocalScale: {x: 1, y: 0.5000187, z: 0.24998999}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1447531243}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1232294541
 GameObject:
@@ -4987,7 +5034,7 @@ GameObject:
   - component: {fileID: 1232294543}
   - component: {fileID: 1232294542}
   m_Layer: 0
-  m_Name: Cube (8)
+  m_Name: Linen Closet Back Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5076,11 +5123,11 @@ Transform:
   m_GameObject: {fileID: 1232294541}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0.24900007, y: 1.25, z: 0.375}
+  m_LocalPosition: {x: 0.8740001, y: 0.875, z: 0}
   m_LocalScale: {x: 0.50004566, y: 2.0000749, z: 0.24998999}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1555514676}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &1242973325
 GameObject:
@@ -5095,7 +5142,7 @@ GameObject:
   - component: {fileID: 1242973327}
   - component: {fileID: 1242973326}
   m_Layer: 0
-  m_Name: Cube (57)
+  m_Name: Spare Bed Door Frame
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5183,12 +5230,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1242973325}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.24999999, y: 2, z: -0.7499996}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.375, y: 1.625, z: -1.1249998}
   m_LocalScale: {x: 1.2499768, y: 0.5000187, z: 0.24990757}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 406408510}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1259352653
 GameObject:
@@ -5203,7 +5250,7 @@ GameObject:
   - component: {fileID: 1259352655}
   - component: {fileID: 1259352654}
   m_Layer: 0
-  m_Name: Cube (48)
+  m_Name: Bedroom 1 Left Window Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5292,11 +5339,11 @@ Transform:
   m_GameObject: {fileID: 1259352653}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0.5829, y: 1.25, z: 3.25}
+  m_LocalPosition: {x: 1.2079, y: 0.875, z: 2.8749998}
   m_LocalScale: {x: 0.25002283, y: 2.0000749, z: 0.9177951}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1687142341}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1001 &1329927272
 PrefabInstance:
@@ -5385,7 +5432,7 @@ GameObject:
   - component: {fileID: 1349635760}
   - component: {fileID: 1349635759}
   m_Layer: 0
-  m_Name: Cube (10)
+  m_Name: Spare Bed Left Door Frame
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5474,11 +5521,11 @@ Transform:
   m_GameObject: {fileID: 1349635758}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 1, z: -0, w: -0.00000037252897}
-  m_LocalPosition: {x: -0.0010000169, y: 1.25, z: -0.7500001}
+  m_LocalPosition: {x: 0.62399995, y: 0.875, z: -1.1250004}
   m_LocalScale: {x: 0.25002283, y: 2.0000749, z: 0.24998999}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 406408510}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
 --- !u!1 &1400227398
 GameObject:
@@ -5493,7 +5540,7 @@ GameObject:
   - component: {fileID: 1400227400}
   - component: {fileID: 1400227399}
   m_Layer: 0
-  m_Name: Cube (38)
+  m_Name: Bedroom 1 Right Window Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5582,11 +5629,11 @@ Transform:
   m_GameObject: {fileID: 1400227398}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 2.2215, y: 1.25, z: 3.25}
+  m_LocalPosition: {x: 2.8465, y: 0.875, z: 2.8749998}
   m_LocalScale: {x: 0.25002283, y: 2.0000749, z: 1.305}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1687142341}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1001 &1421966306
 PrefabInstance:
@@ -5675,7 +5722,7 @@ GameObject:
   - component: {fileID: 1432819010}
   - component: {fileID: 1432819009}
   m_Layer: 0
-  m_Name: Cube (36)
+  m_Name: Bedroom 2 Right Closet Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5764,12 +5811,59 @@ Transform:
   m_GameObject: {fileID: 1432819008}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 2.374, y: 1.25, z: 0.00000016210497}
+  m_LocalPosition: {x: 2.999, y: 0.875, z: -0.3750001}
   m_LocalScale: {x: 0.2500103, y: 2.0000749, z: 0.9999749}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 559333215}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+--- !u!1 &1447531242
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1447531243}
+  m_Layer: 0
+  m_Name: Bathroom
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1447531243
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1447531242}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 336425998}
+  - {fileID: 1523378624}
+  - {fileID: 1218004308}
+  - {fileID: 23058443}
+  - {fileID: 1076064928}
+  - {fileID: 1207772612}
+  - {fileID: 2029597085}
+  - {fileID: 177763074}
+  - {fileID: 987616506}
+  - {fileID: 1714171561}
+  - {fileID: 1638667661}
+  - {fileID: 1606156538}
+  - {fileID: 1589875876}
+  - {fileID: 1102291937}
+  - {fileID: 1852546044}
+  - {fileID: 625601263}
+  m_Father: {fileID: 265902249}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1465340317
 GameObject:
   m_ObjectHideFlags: 0
@@ -5783,7 +5877,7 @@ GameObject:
   - component: {fileID: 1465340319}
   - component: {fileID: 1465340318}
   m_Layer: 0
-  m_Name: Cube (39)
+  m_Name: Bedroom 1 Back Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5872,11 +5966,11 @@ Transform:
   m_GameObject: {fileID: 1465340317}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 2.7489998, y: 1.25, z: 2.0000002}
+  m_LocalPosition: {x: 3.3739998, y: 0.875, z: 1.625}
   m_LocalScale: {x: 2.750026, y: 2.0000749, z: 0.24999999}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1687142341}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &1476033434
 GameObject:
@@ -5891,7 +5985,7 @@ GameObject:
   - component: {fileID: 1476033436}
   - component: {fileID: 1476033435}
   m_Layer: 0
-  m_Name: Cube (37)
+  m_Name: Bedroom 2 Right Window Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5980,11 +6074,11 @@ Transform:
   m_GameObject: {fileID: 1476033434}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0.7275, y: 1.2500001, z: -2.9999998}
+  m_LocalPosition: {x: 1.3525, y: 0.8750001, z: -3.375}
   m_LocalScale: {x: 0.24990317, y: 2.0000749, z: 0.70703197}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 559333215}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &1505945110
 GameObject:
@@ -5999,7 +6093,7 @@ GameObject:
   - component: {fileID: 1505945112}
   - component: {fileID: 1505945111}
   m_Layer: 0
-  m_Name: Cube (42)
+  m_Name: Bedroom 2 Left Window Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6088,11 +6182,11 @@ Transform:
   m_GameObject: {fileID: 1505945110}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 2.1213, y: 1.2500001, z: -2.9999998}
+  m_LocalPosition: {x: 2.7463, y: 0.8750001, z: -3.375}
   m_LocalScale: {x: 0.24990317, y: 2.0000749, z: 1.0053847}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 559333215}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &1511531217
 GameObject:
@@ -6107,7 +6201,7 @@ GameObject:
   - component: {fileID: 1511531219}
   - component: {fileID: 1511531218}
   m_Layer: 0
-  m_Name: Cube (9)
+  m_Name: Bedroom 2 Right Door Frame
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6196,11 +6290,11 @@ Transform:
   m_GameObject: {fileID: 1511531217}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0.24900013, y: 1.25, z: -0.625}
+  m_LocalPosition: {x: 0.87400013, y: 0.875, z: -1}
   m_LocalScale: {x: 0.50004566, y: 2.0000749, z: 0.24998999}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 559333215}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &1523378620
 GameObject:
@@ -6215,7 +6309,7 @@ GameObject:
   - component: {fileID: 1523378622}
   - component: {fileID: 1523378621}
   m_Layer: 0
-  m_Name: Cube (6)
+  m_Name: Bathroom Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6303,12 +6397,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1523378620}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.12500024, y: 1.25, z: 1.5000002}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.49999976, y: 0.875, z: 1.125}
   m_LocalScale: {x: 0.5000332, y: 2.0000749, z: 0.24998999}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1447531243}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1531727016
 GameObject:
@@ -6323,7 +6417,7 @@ GameObject:
   - component: {fileID: 1531727018}
   - component: {fileID: 1531727017}
   m_Layer: 0
-  m_Name: Cube (23)
+  m_Name: Hallway Roof
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6412,12 +6506,54 @@ Transform:
   m_GameObject: {fileID: 1531727016}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -1.2509999, y: 2.125, z: 0.37500057}
+  m_LocalPosition: {x: -0.6259999, y: 1.75, z: 0}
   m_LocalScale: {x: 2.500054, y: 0.25000936, z: 3.249992}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1555514676}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+--- !u!1 &1555514675
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1555514676}
+  m_Layer: 0
+  m_Name: Hallway
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1555514676
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1555514675}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 75071742}
+  - {fileID: 1794416079}
+  - {fileID: 1045010907}
+  - {fileID: 609496534}
+  - {fileID: 317559574}
+  - {fileID: 1104758434}
+  - {fileID: 1531727020}
+  - {fileID: 1232294545}
+  - {fileID: 879031184}
+  - {fileID: 567437166}
+  - {fileID: 132728897}
+  m_Father: {fileID: 265902249}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1589875872
 GameObject:
   m_ObjectHideFlags: 0
@@ -6431,7 +6567,7 @@ GameObject:
   - component: {fileID: 1589875874}
   - component: {fileID: 1589875873}
   m_Layer: 0
-  m_Name: Cube (22)
+  m_Name: Bathroom Roof
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6520,11 +6656,11 @@ Transform:
   m_GameObject: {fileID: 1589875872}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -0.6259999, y: 2.125, z: 2.3750002}
-  m_LocalScale: {x: 2.0000632, y: 0.25000936, z: 1.999995}
+  m_LocalPosition: {x: -0.0009999275, y: 1.75, z: 2}
+  m_LocalScale: {x: 2.0000632, y: 0.25000936, z: 2}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1447531243}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &1606156534
 GameObject:
@@ -6539,7 +6675,7 @@ GameObject:
   - component: {fileID: 1606156536}
   - component: {fileID: 1606156535}
   m_Layer: 0
-  m_Name: Cube (18)
+  m_Name: Toilet Back Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6627,12 +6763,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1606156534}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.2500002, y: 1.25, z: 2.8750002}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.6250002, y: 0.875, z: 2.5}
   m_LocalScale: {x: 0.2501833, y: 2.0000248, z: 0.999985}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1447531243}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1608825130
 GameObject:
@@ -6647,7 +6783,7 @@ GameObject:
   - component: {fileID: 1608825132}
   - component: {fileID: 1608825131}
   m_Layer: 0
-  m_Name: Cube (52)
+  m_Name: Spare Bed Bottom Window Frame
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6736,11 +6872,11 @@ Transform:
   m_GameObject: {fileID: 1608825130}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 1, z: -0, w: -0.00000037252897}
-  m_LocalPosition: {x: -0.8760017, y: 0.6166, z: -2.9999995}
+  m_LocalPosition: {x: -0.25100172, y: 0.24159998, z: -3.3749998}
   m_LocalScale: {x: 0.9999264, y: 0.7333024, z: 0.24998999}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 406408510}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
 --- !u!1 &1621564126
 GameObject:
@@ -6950,7 +7086,7 @@ GameObject:
   - component: {fileID: 1638667659}
   - component: {fileID: 1638667658}
   m_Layer: 0
-  m_Name: Cube (47)
+  m_Name: Bathroom Window Top Frame
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7039,11 +7175,11 @@ Transform:
   m_GameObject: {fileID: 1638667657}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -0.87599987, y: 2, z: 3.2499995}
+  m_LocalPosition: {x: -0.25099987, y: 1.625, z: 2.8749993}
   m_LocalScale: {x: 0.2499954, y: 0.5000187, z: 0.9999474}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1447531243}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &1649247284
 GameObject:
@@ -7149,6 +7285,42 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!1 &1687142340
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1687142341}
+  m_Layer: 0
+  m_Name: Bedroom 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1687142341
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1687142340}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1465340321}
+  - {fileID: 259818618}
+  - {fileID: 1094726109}
+  - {fileID: 1259352657}
+  - {fileID: 1400227402}
+  m_Father: {fileID: 246788478}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1714171557
 GameObject:
   m_ObjectHideFlags: 0
@@ -7162,7 +7334,7 @@ GameObject:
   - component: {fileID: 1714171559}
   - component: {fileID: 1714171558}
   m_Layer: 0
-  m_Name: Cube (20)
+  m_Name: Sink Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7250,12 +7422,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1714171557}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.5000002, y: 1.25, z: 2.0000002}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.87500024, y: 0.875, z: 1.625}
   m_LocalScale: {x: 0.2501833, y: 2.0000248, z: 0.74999493}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1447531243}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1747000630
 PrefabInstance:
@@ -7347,7 +7519,7 @@ GameObject:
   - component: {fileID: 1794416077}
   - component: {fileID: 1794416076}
   m_Layer: 0
-  m_Name: Cube (1)
+  m_Name: Top Step
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7435,12 +7607,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1794416075}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.5, y: 0.25, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.875, y: -0.125, z: 0.62499976}
   m_LocalScale: {x: 0.25, y: 0.25001252, z: 0.75}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1555514676}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1852546040
 GameObject:
@@ -7455,7 +7627,7 @@ GameObject:
   - component: {fileID: 1852546042}
   - component: {fileID: 1852546041}
   m_Layer: 0
-  m_Name: Cube (21)
+  m_Name: Bathroom Gable
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7544,11 +7716,11 @@ Transform:
   m_GameObject: {fileID: 1852546040}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: 0.25881952, w: 0.96592575}
-  m_LocalPosition: {x: -1.5116, y: 1.849, z: 2.9361}
-  m_LocalScale: {x: 2.2201421, y: 0.25, z: 0.6279763}
+  m_LocalPosition: {x: -0.8866, y: 1.474, z: 2.5610998}
+  m_LocalScale: {x: 2.2201424, y: 0.25, z: 0.6279763}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1447531243}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 30}
 --- !u!1 &1898805517
 GameObject:
@@ -7563,7 +7735,7 @@ GameObject:
   - component: {fileID: 1898805519}
   - component: {fileID: 1898805518}
   m_Layer: 0
-  m_Name: Cube (28)
+  m_Name: Spare Bed Back Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7652,11 +7824,11 @@ Transform:
   m_GameObject: {fileID: 1898805517}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 1, z: -0, w: -0.00000037252897}
-  m_LocalPosition: {x: -2.2510011, y: 1.25, z: -1.9999988}
+  m_LocalPosition: {x: -1.6260011, y: 0.875, z: -2.374999}
   m_LocalScale: {x: 0.2500066, y: 2.0000749, z: 2.249985}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 406408510}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
 --- !u!1 &1910427303
 GameObject:
@@ -7937,7 +8109,7 @@ GameObject:
   - component: {fileID: 2024661522}
   - component: {fileID: 2024661521}
   m_Layer: 0
-  m_Name: Cube (43)
+  m_Name: Bedroom 2 Bottom Window Frame
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8026,11 +8198,11 @@ Transform:
   m_GameObject: {fileID: 2024661520}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 1.385, y: 0.611, z: -2.9999998}
+  m_LocalPosition: {x: 2.01, y: 0.236, z: -3.375}
   m_LocalScale: {x: 0.24990317, y: 0.722127, z: 0.97800964}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 559333215}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &2029597081
 GameObject:
@@ -8045,7 +8217,7 @@ GameObject:
   - component: {fileID: 2029597083}
   - component: {fileID: 2029597082}
   m_Layer: 0
-  m_Name: Cube (19)
+  m_Name: Toilet Wall East
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8133,12 +8305,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2029597081}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.6185, y: 1.25, z: 3.2500002}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.9935, y: 0.875, z: 2.875}
   m_LocalScale: {x: 1.0128391, y: 2.0000248, z: 0.24998999}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1447531243}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
@@ -8149,61 +8321,4 @@ SceneRoots:
   - {fileID: 1145617389}
   - {fileID: 1954559991}
   - {fileID: 1649247288}
-  - {fileID: 75071742}
-  - {fileID: 1169488448}
-  - {fileID: 187959467}
-  - {fileID: 625601263}
-  - {fileID: 336425998}
-  - {fileID: 1794416079}
-  - {fileID: 1045010907}
-  - {fileID: 609496534}
-  - {fileID: 317559574}
-  - {fileID: 1104758434}
-  - {fileID: 1523378624}
-  - {fileID: 1218004308}
-  - {fileID: 23058443}
-  - {fileID: 6198748}
-  - {fileID: 1242973329}
-  - {fileID: 1076064928}
-  - {fileID: 1207772612}
-  - {fileID: 2029597085}
-  - {fileID: 177763074}
-  - {fileID: 987616506}
-  - {fileID: 1714171561}
-  - {fileID: 1606156538}
-  - {fileID: 76960578}
-  - {fileID: 1589875876}
-  - {fileID: 1638667661}
-  - {fileID: 1102291937}
-  - {fileID: 1531727020}
-  - {fileID: 766876019}
-  - {fileID: 671255836}
-  - {fileID: 1232294545}
-  - {fileID: 772257124}
-  - {fileID: 1400227402}
-  - {fileID: 1259352657}
-  - {fileID: 1094726109}
-  - {fileID: 259818618}
-  - {fileID: 1465340321}
-  - {fileID: 989306522}
-  - {fileID: 416696354}
-  - {fileID: 596982257}
-  - {fileID: 230561330}
-  - {fileID: 1476033438}
-  - {fileID: 1505945114}
-  - {fileID: 2024661524}
-  - {fileID: 1432819012}
-  - {fileID: 1511531221}
-  - {fileID: 1349635762}
-  - {fileID: 132728897}
-  - {fileID: 1126930575}
-  - {fileID: 479526304}
-  - {fileID: 1608825134}
-  - {fileID: 576746970}
-  - {fileID: 1898805521}
-  - {fileID: 1131855682}
-  - {fileID: 867936620}
-  - {fileID: 879031184}
-  - {fileID: 1852546044}
-  - {fileID: 567437166}
-  - {fileID: 977381356}
+  - {fileID: 265902249}

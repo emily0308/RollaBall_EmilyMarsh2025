@@ -5,8 +5,7 @@ using System;
 
 public class PlayerController : MonoBehaviour
 {
-    public float speed = 0;
-    public float jumpforce = 10;
+    public float speed = 10;
     public TextMeshProUGUI countText;
     private Rigidbody rb;
     private int count;
@@ -23,12 +22,17 @@ public class PlayerController : MonoBehaviour
         winTextObject.SetActive(false);
     }
 
-    void OnMove(InputValue movementValue)
+    void OnMove(InputValue movementvalue)
     {
-        Vector2 movementVector = movementValue.Get<Vector2>();
+        Vector2 movementVector = movementvalue.Get<Vector2>();
 
         movementX = movementVector.x;
         movementY = movementVector.y;
+    }
+    private void FixedUpdate()
+    {
+        Vector3 movement = new Vector3(movementX, 0.0f, movementY);
+        rb.AddForce(movement * speed);
     }
 
     void SetCountText()
@@ -38,18 +42,6 @@ public class PlayerController : MonoBehaviour
         {
             winTextObject.SetActive(true);
             Destroy(GameObject.FindGameObjectWithTag("Enemy"));
-        }
-    }
-
-    void FixedUpdate()
-    {
-        Vector3 movement = new Vector3(movementX, 0.0f, movementY);
-
-        rb.AddForce(movement * speed);
-
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            rb.AddForce(Vector3.up * jumpforce, ForceMode.Impulse);
         }
     }
     private void OnTriggerEnter(Collider other)

@@ -31,7 +31,17 @@ public class PlayerController : MonoBehaviour
     }
     private void FixedUpdate()
     {
-        Vector3 movement = new Vector3(movementX, 0.0f, movementY);
+        Vector3 camForward = Camera.main.transform.forward;
+        camForward.y = 0f;
+        camForward.Normalize();
+
+        Vector3 camRight = Camera.main.transform.right;
+        camRight.y = 0f;
+        camRight.Normalize();
+
+        Vector3 movement = camForward * movementY + camRight * movementX;
+
+        //Vector3 movement = new Vector3(movementX, 0.0f, movementY);
         rb.AddForce(movement * speed);
     }
 

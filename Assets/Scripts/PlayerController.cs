@@ -29,6 +29,12 @@ public class PlayerController : MonoBehaviour
         movementX = movementVector.x;
         movementY = movementVector.y;
     }
+    //private void FixedUpdate()    // THIS WAS THE ONE I HAD BEFORE NICK MADE A NEW ONE
+    //{
+    //    Vector3 movement = new Vector3(movementX, 0.0f, movementY);
+    //    rb.AddForce(movement * speed);
+    //}
+
     private void FixedUpdate()
     {
         Vector3 camForward = Camera.main.transform.forward;

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8a7ce30cb3f4750449370d15dacc30be
+guid: 812d4eead5211814083d71176370d556
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -39,8 +39,8 @@ ModelImporter:
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
     importPhysicalCameras: 1
-    importVisibility: 0
-    importBlendShapes: 0
+    importVisibility: 1
+    importBlendShapes: 1
     importCameras: 0
     importLights: 0
     nodeNameCollisionStrategy: 1
@@ -99,7 +99,7 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
-  importBlendShapeDeformPercent: 0
+  importBlendShapeDeformPercent: 1
   remapMaterialsIfMaterialImportModeIsNone: 0
   additionalBone: 0
   userData: 
